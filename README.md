@@ -1,2 +1,2 @@
-# -html-css-leaning-freecodecamp
+# html-css-leaning-freecodecamp
 https://www.freecodecamp.one/
